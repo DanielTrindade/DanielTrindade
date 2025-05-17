@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-I'm Daniel, a Fullstack Developer from Manaus, Brazil, passionate about creating scalable and maintainable web applications. Currently working with payments.
+I'm Daniel, a Backend Developer from Manaus, Brazil, passionate about creating scalable and maintainable web applications. Currently working with payments.
 
 ## About me
 
