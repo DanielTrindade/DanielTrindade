@@ -3,9 +3,8 @@
 I'm Daniel, a Backend Developer from Manaus, Brazil, passionate about creating scalable and maintainable web applications. Currently working with payments.
 
 ## About me
-
-🎓 Software Engineering Student at UFAM  
 💼 Currently working at IKT - Instituto Kodigos de Tecnologia  
+🎓 Software Engineering Student at UFAM  
 🌱 Focused on microservices architecture and clean code  
 🚀 Building scalable solutions for e-commerce and industrial management
 
