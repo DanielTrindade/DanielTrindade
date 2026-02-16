@@ -88,6 +88,13 @@ I'm Daniel, a Backend Developer from Manaus, Brazil, passionate about creating s
 
 ---
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<div align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./profile/pin-readme-tools-github-readme-stats.svg" height="180" alt="Pinned Repository" />
+</div>
