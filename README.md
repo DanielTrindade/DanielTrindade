@@ -1,14 +1,25 @@
 # Hey 👋 What's up?
 
-I'm Daniel, a Backend Developer from Manaus, Brazil, passionate about creating scalable and maintainable web applications. Currently working with payments.
+I'm Daniel, a Full Stack Developer from Manaus, Brazil, passionate about creating scalable and maintainable web applications. Currently working with payments.
+
+🌐 [danieltrindade.dev](https://danieltrindade.dev) · 🤖 [ask.danieltrindade.dev](https://ask.danieltrindade.dev) — ask my AI assistant anything about my experience · 💼 [LinkedIn](https://www.linkedin.com/in/danielotrindade/)
 
 ## About me
 
-💼 Currently working at IKT - Instituto Kodigos de Tecnologia  
+💼 Working with payments — multi-gateway transaction systems  
 🎓 Software Engineering Student at UFAM  
 🌱 Focused on microservices architecture and clean code  
 🧠 Applying DDD (Domain-Driven Design) to model complex domains and align software with business  
 🚀 Building scalable solutions for e-commerce and industrial management  
+🤖 Ask my AI assistant anything about my experience: [ask.danieltrindade.dev](https://ask.danieltrindade.dev)
+
+## Featured projects
+
+🛠️ [**Multi-Gateway Payments**](https://github.com/DanielTrindade/multigateway-api) — payment API with automatic fallback across gateways, role-based access and refunds (Laravel, SOLID, TDD, Docker)  
+🔗 [**MyTinyURL**](https://github.com/DanielTrindade/mytinyurl) — URL shortener with PostgreSQL shards, Redis cache/queue and React frontend, deployed with Docker Swarm + Caddy (Bun, Elysia, TypeScript)  
+🤖 [**Ask Me RAG**](https://github.com/DanielTrindade/ask-me-rag) — streaming RAG chatbot over my personal docs, live at [ask.danieltrindade.dev](https://ask.danieltrindade.dev) (Next.js, Vercel AI SDK, Supabase pgvector)  
+🔧 [**OSManager**](https://github.com/DanielTrindade/OSManager) — field service order management with checklists, photo evidence and approval flow (.NET 8, SQL Server, JWT, Vue 3)  
+🛒 [**Crudify**](https://github.com/DanielTrindade/crudify-app) — modern shopping list manager (NestJS, Next.js, PostgreSQL)
 
 ## Techs and tools
 
@@ -66,15 +77,15 @@ I'm Daniel, a Backend Developer from Manaus, Brazil, passionate about creating s
 
 </div>
 
-## Recent Projects
-
-🔗 **MyTinyURL** - URL shortener with advanced features (Node.js, React, TypeScript)  
-🛒 **Crudify** - Modern shopping list manager (NestJS, Next.js, PostgreSQL)  
-🛍️ **E-commerce Platform** - Scalable green economy marketplace (Angular, React, AdonisJS)
-
 ## Contact
 
 <div align="left">
+  <a href="https://danieltrindade.dev">
+    <img src="https://img.shields.io/badge/danieltrindade.dev-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website logo" />
+  </a>
+  <a href="https://ask.danieltrindade.dev">
+    <img src="https://img.shields.io/badge/Ask_my_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="ask me ai logo" />
+  </a>
   <a href="mailto:danieloliveiratrindade@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
   </a>
@@ -91,10 +102,4 @@ I'm Daniel, a Backend Developer from Manaus, Brazil, passionate about creating s
 <div align="center">
   <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./profile/pin-readme-tools-github-readme-stats.svg" height="180" alt="Pinned Repository" />
 </div>
